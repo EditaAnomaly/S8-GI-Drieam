@@ -1,9 +1,9 @@
 # S8-GI-Drieam
 
-- Practice Courses -
+*Practice Courses*
   Contains the React, Ruby and RubyOnRails code from excercises done to better understand the basics of these languages and frameworks.
   
-- Project Documentation -
+*Project Documentation*
   Is split per HBO-i activities - Analysis, Design, Realisation, Advice and Management.
 
 1. Analysis
