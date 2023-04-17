@@ -1,4 +1,4 @@
-# S8-GI-Drieam
+# S8-GI-Drieam Repository contents
 
 ## Practice Courses
 
@@ -41,7 +41,7 @@ Is split per HBO-i activities - Analysis, Design, Realisation, Advice and Manage
 - Project Plan
 - Project Proposal - initial proposal to get the internship assignemnt approved by the university.
 
-# Learning Outcomes
+# Learning Outcomes Explanation
 
 ### 1. Professional Duties << Beginning >>
 
