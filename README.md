@@ -1,12 +1,5 @@
 # S8-GI-Drieam Repository contents
-
-## Practice Courses
-
-Contains the React, Ruby and RubyOnRails code from excercises done to better understand the basics of these languages and frameworks.
-
-## Project Documentation
-
-Is split per HBO-i activities - Analysis, Design, Realisation, Advice and Management.
+All contents are divided into HBO-i activities - Analysis, Design, Realisation, Advice and Management.
 
 ### 1. Analysis
 
@@ -22,7 +15,7 @@ Is split per HBO-i activities - Analysis, Design, Realisation, Advice and Manage
 - Requirements and Designing - document that logs the initial requirements and design process iterations.
 
 ### 3. Realisation
-
+- Practice Courses - contains the React, Ruby and RubyOnRails code from excercises done to better understand the basics of these languages and frameworks.
 - Issue estimates - a file containing Zenhub issues to better track the implementation process and help improve future plans.
 - My Evidence Refinement - a formal refinement document using the company's remplate.
 - Refinement notes - a document that logs the feature refinement for the implementation.
@@ -30,6 +23,7 @@ Is split per HBO-i activities - Analysis, Design, Realisation, Advice and Manage
 ### 4. Advice
 
 - Internship Report - a general overview document for the internship with conclusions and recommendations.
+- TICT Digital Portfolio - a report on ethical impact of Digital Portfolio application.
 
 ### 5. Management
 
