@@ -1,5 +1,5 @@
 # S8-GI-Drieam Repository contents
-All contents are divided into HBO-i activities - Analysis, Design, Realisation, Advice and Management.
+All contents are divided into HBO-i activities - Analysis, Design, Realisation, Advice and Management. There is also a [wiki](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki) page briefly explaining the process of each section. 
 
 ### 1. Analysis
 
