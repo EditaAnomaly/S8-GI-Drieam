@@ -2,9 +2,11 @@
 All contents are divided into HBO-i activities - Analysis, Design, Realisation, Advice and Management. There is also a [📖 wiki](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki) page briefly explaining the process of each section. 
 
 ### 1. Analysis
-
-- Competitor Analysis - a brief overview of key features of over 15 competitor products.
-- Research Document - overview document of research done to answer the project related questions.
+- [Accessibility in web UI libraries](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Accessibility%20in%20web%20UI%20libraries.docx) - a comparison of main web UI libraries in the context of accessibility.
+- [Competitor Analysis](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Competitor%20analysis.docx) - a brief overview of key features of over 15 competitor products.
+- [Frontend Testing Libraries](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Frontend%20Testing%20Libraries.docx) - a document about main frontend testing libraries and the best set up for the internship project.
+- [Project Management Tools](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Project%20Management%20Tools.docx) - a document comparing Zenhub and Jira as development project management and issue tracking tools.
+- [Research Document](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Research%20Document.docx) - overview document of research done to answer the project related questions.
 
 ### 2. Design
 
