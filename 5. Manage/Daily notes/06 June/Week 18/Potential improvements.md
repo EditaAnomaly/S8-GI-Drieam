@@ -1,0 +1,7 @@
+Suggestions: 
+* Change goal tag colors (leave border and maybe icon, backgr like col tag) 
+* Remove sorter by type
+* Date filter - should we keep the sorter? 
+* Feedback status tags will change colors, right?
+* Orphaned evidence  - filter by none or not linked (avoids confusing name) 
+* Option to edit tags in evidence detail view.
