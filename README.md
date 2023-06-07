@@ -1,14 +1,14 @@
 # 🧾 S8-GI-Drieam Repository contents 
 All contents are divided into HBO-i activities - Analysis, Design, Realisation, Advice and Management. There is also a [📖 wiki](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki) page briefly explaining the process of each section. 
 
-### 1. Analysis
+### 1. [Analysis](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/1.-Analysis)
 - [Accessibility in web UI libraries](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Accessibility%20in%20web%20UI%20libraries.docx) - a comparison of main web UI libraries in the context of accessibility.
 - [Competitor Analysis](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Competitor%20analysis.docx) - a brief overview of key features of over 15 competitor products.
 - [Frontend Testing Libraries](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Frontend%20Testing%20Libraries.docx) - a document about main frontend testing libraries and the best set up for the internship project.
 - [Project Management Tools](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Project%20Management%20Tools.docx) - a document comparing Zenhub and Jira as development project management and issue tracking tools.
 - [Research Document](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Research%20Document.docx) - overview document of research done to answer the project related questions.
 
-### 2. Design
+### 2. [Design](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/2.-Design)
 
 - [Sketches](https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/2.%20Design/Sketches) folder containing paper sketches of Evidence Section Desings.
 - [Wireframes](https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/2.%20Design/Wireframes) folder with images/recordings of figma wireframes.
@@ -16,20 +16,20 @@ All contents are divided into HBO-i activities - Analysis, Design, Realisation, 
 - [Evidence Section Improvements Review](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/2.%20Design/Evidence%20Section%20improvements%20review.pptx) - presentation of the design review given to stakeholders.
 - [Requirements and Designing](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/2.%20Design/Requirements%20and%20Design%20process.docx) - document that logs the initial requirements and design process iterations.
 
-### 3. Realisation
+### 3. [Realisation](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/3.-Realization)
 - [Code Snippets](https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/3.%20Realization/Code%20snippets) - folder containing code examples from the Portflow application.
 - [Practice Courses](https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/3.%20Realization/Practice%20Courses) - contains the React, Ruby and RubyOnRails code from excercises done to better understand the basics of these languages and frameworks.
 - [Issue estimates](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/3.%20Realization/Issue%20estimates.xlsx) - a file containing Zenhub issues to better track the implementation process and help improve future plans.
 - [My Evidence Refinement](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/3.%20Realization/My%20Evidence%20Refinement.docx) - a formal refinement document using the company's remplate.
 - [Refinement notes](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/3.%20Realization/Refinement%20notes.docx) - a document that logs the feature refinement for the implementation.
 
-### 4. Advice
+### 4. [Advice](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/4.-Advice)
 
-- [Internship Report](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/Internship%20report%20draft.docx) - a general overview document for the internship with conclusions and recommendations.
+- [Internship Report](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/Internship%20Report.docx) - a general overview document for the internship with conclusions and recommendations.
 - [TICT Digital Portfolio](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/TICT%20Digital%20Portfolio.pdf) - a report on ethical impact of Digital Portfolio application.
 - [Test Plan](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/Test%20Plan.docx) - document describing user testing process.
 
-### 5. Management
+### 5. [Management](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/5.-Management)
 
 - [Daily Notes](https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/5.%20Manage/Daily%20notes) - a folder with personal log - activity list per each internship day.
 - [Feedback](https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/5.%20Manage/Feedback) - a folder containing the logs with all major feedback moments.
