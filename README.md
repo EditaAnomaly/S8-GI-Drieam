@@ -1,5 +1,4 @@
 # 🧾 S8-GI-Drieam Repository contents 
-All contents are divided into HBO-i activities - Analysis, Design, Realisation, Advice and Management. There is also a [📖 wiki](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki) page briefly explaining the process of each section. 
 
 ### 1. [Analysis](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/1.-Analysis)
 - [Accessibility in web UI libraries](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Accessibility%20in%20web%20UI%20libraries.pdf) - a comparison of main web UI libraries in the context of accessibility.
@@ -41,30 +40,3 @@ All contents are divided into HBO-i activities - Analysis, Design, Realisation, 
 - [Project Ad](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/5.%20Manage/Project%20Ad.png) - add made for inviting guests to see the Graduation Presentation.
 - [Project Plan](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/5.%20Manage/Project%20Plan.pdf)
 - [Project Proposal](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/5.%20Manage/Project%20Proposal.pdf) - initial proposal to get the internship assignemnt approved by the university.
-
-# Learning Outcomes Explanation
-
-### 1. Professional Duties << Advanced >>
-
-Successfully carried out the [research]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/1.-Analysis), iterated several [design options]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/2.-Design), managed the [implementation]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/3.-Realization) of a big part of the design solution and performed user testing. All these steps were carried out considering the stakeholders (company, university and end-users). Received [feedback]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/5.-Management) and suggestions along the way to improve as I progress. 
-
-### 2. Situation-Orientation << Advanced >>
-
-The Agile way of working is already known and thus was easy to get onboard with Scrum activities. I made several live demos of my team’s progress for the company during Sprint Demo meeting. Requirement gathering was also a familiar activity due to various green projects done in the past. [Competitor analysis](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Competitor%20analysis.pdf) was beneficial to the company, so as my solution. In addition, a [Double Diamond]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/2.-Design#:~:text=Double%20Diamond%20model%20of%20Design%20thinking%20representing%20iterations%20of%20improving%20the%20Evidence%20Section.) model was applied to help the design process and Figma was used to make digital [Wireframes]( https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/2.%20Design/Wireframes). I was already familiar with the model and the tool, however, it was good to apply and exercise it more. Moreover, the professional communication and initiative are also quite natural due to previous project-based work involving various stakeholders. Version Control, even though familiar, still needed work and adjustment, however, by the end of the assignment I was able to manage it by myself according to the company’s practices.
-
-### 3. Future-Oriented Organisation << Proficient >>
-
-Through research has been done to come up with mot suitable solution. Student communicated with all important stakeholders, that helped ensure the solution fits in with the company’s requirements and expectations. Student even gathered some insights from end users.
-Planning and follow through have been suceessful until this point.
-
-### 4. Investigative Problem Solving << Proficient >>
-
-A good project phasing and frequent communication with the stakeholders help stay on top of the challenges. Keeping a log of daily activities and all received feedback is also very useful. However, more technical research should still take place as implementation phase has recently begun and it grows in complexity over time.
-
-### 5. Personal Leadership << Advanced >>
-
-Student is taking initative and ownership of the project rather well. Managing most communication and presentation by myself. However, student is still working towards a clear vision of the wished future career paths.
-
-### 6. Targeted Interaction << Advanced >>
-
-Good communication with both mentors, PO, UX designers and other team members. Awareness of where to go with specific questions and how to present the questions or work done. Communication is clear and directional till now.
