@@ -26,7 +26,7 @@ All contents are divided into HBO-i activities - Analysis, Design, Realisation, 
 
 ### 4. [Advice](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/4.-Advice)
 
-- [Internship Report](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/Internship%20Report.docx) - a general overview document for the internship with conclusions and recommendations.
+- [Internship Report](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/Internship%20Report.pdf) - a general overview document for the internship with conclusions and recommendations.
 - [TICT Digital Portfolio](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/TICT%20Digital%20Portfolio.pdf) - a report on ethical impact of Digital Portfolio application.
 
 ### 5. [Management](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/5.-Management)
