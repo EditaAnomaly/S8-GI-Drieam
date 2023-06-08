@@ -5,7 +5,7 @@
 - [Competitor Analysis](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Competitor%20analysis.pdf) - a brief overview of key features of over 15 competitor products.
 - [Frontend Testing Libraries](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Frontend%20Testing%20Libraries.pdf) - a document about main frontend testing libraries and the best set up for the internship project.
 - [Project Management Tools](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Project%20Management%20Tools.pdf) - a document comparing Zenhub and Jira as development project management and issue tracking tools.
-- [Research Document](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Research%20Document.pdf) - overview document of research done to answer the project related questions.
+- 📖 [Research Document](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Research%20Document.pdf) - overview document of research done to answer the project related questions.
 
 ### 2. [Design](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/2.-Design)
 
@@ -25,7 +25,7 @@
 
 ### 4. [Advice](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/4.-Advice)
 
-- [Internship Report](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/Internship%20Report.pdf) - a general overview document for the internship with conclusions and recommendations.
+- 📃[Internship Report](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/Internship%20Report.pdf) - a general overview document for the internship with conclusions and recommendations.
 - [TICT Digital Portfolio](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/4.%20Advice/TICT%20Digital%20Portfolio.pdf) - a report on ethical impact of Digital Portfolio application.
 
 ### 5. [Management](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/5.-Management)
