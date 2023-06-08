@@ -46,8 +46,7 @@ All contents are divided into HBO-i activities - Analysis, Design, Realisation, 
 
 ### 1. Professional Duties << Advanced >>
 
-Multiple design plans have been drawn and improved in iterations by following the feedback received as well as doing own research. It was successfully approved by stakeholders and the implementation has started. Work was carried out in iterations in line with the stakeholders’ expectations.
-More profesional products such as production ready code and end-to-end testing still need to take place.
+Successfully carried out the [research]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/1.-Analysis), iterated several [design options]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/2.-Design), managed the [implementation]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/3.-Realization) of a big part of the design solution and performed user testing. All these steps were carried out considering the stakeholders (company, university and end-users). Received [feedback]( https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/5.-Management) and suggestions along the way to improve as I progress. 
 
 ### 2. Situation-Orientation << Advanced >>
 
