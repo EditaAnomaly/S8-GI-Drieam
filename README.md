@@ -1,5 +1,10 @@
 # 🧾 S8-GI-Drieam Repository contents 
 
+My name is Edita Pronckute, I am a Software Engineering student, doing my graduation internship in User Interaction. I have spent the last 5 months working with  ![image](https://github.com/EditaAnomaly/S8-GI-Drieam/assets/102149932/c699f5c4-57fb-4906-a6bb-16a800d3d741), an ed-tech company developing software solutions for educational institutions. One of their products is “Portflow” - a digital portfolio. The assignment was to improve the page in the portfolio where all the evidence of uploaded work is aggregated.
+This portfolio is for the Graduation Internship. All contents are divided into HBO-i activities - Analysis, Design, Realisation, Advice and Management. There is also a 📖 wiki page briefly explaining the process and linking to the results of each section.
+
+The portfolio repository contents are listed and explained in the Readme file, however, most important files are highlighted with icons: 📖 Research Document and  📃 Internship Report.  I recommend to either start with these two documents or to go over the 📖 wiki of the repository and choose what are the most interesting aspects of my assignment yourself.
+
 ### 1. [Analysis](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/1.-Analysis)
 - [Accessibility in web UI libraries](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Accessibility%20in%20web%20UI%20libraries.pdf) - a comparison of main web UI libraries in the context of accessibility.
 - [Competitor Analysis](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/1.%20Analysis/Competitor%20analysis.pdf) - a brief overview of key features of over 15 competitor products.
