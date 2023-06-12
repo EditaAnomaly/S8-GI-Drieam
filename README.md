@@ -46,4 +46,4 @@ This repository serves as a portfolio for the Graduation Internship. All content
 - [Midterm Evaluation - Student](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/5.%20Manage/Midterm%20Evaluation%20-%20Student.pdf)
 - [Project Ad](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/5.%20Manage/Project%20Ad.png) - add made for inviting guests to see the Graduation Presentation.
 - [Project Plan](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/5.%20Manage/Project%20Plan.pdf)
-- [Project Proposal](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/5.%20Manage/Project%20Proposal.pdf) - initial proposal to get the internship assignemnt approved by the university.
+- [Project Proposal](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/5.%20Manage/Project%20Proposal.pdf) - initial proposal to get the internship assignment approved by the university.
