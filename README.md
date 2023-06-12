@@ -24,7 +24,6 @@ This repository serves as a portfolio for the Graduation Internship. All content
 - [Requirements and Designing](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/2.%20Design/Requirements%20and%20Design%20process.pdf) - document that logs the initial requirements and design process iterations.
 
 ### 3. [Realization](https://github.com/EditaAnomaly/S8-GI-Drieam/wiki/3.-Realization)
-- [Code Snippets](https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/3.%20Realization/Code%20snippets) - folder containing code examples from the Portflow application.
 - [Practice Courses](https://github.com/EditaAnomaly/S8-GI-Drieam/tree/main/3.%20Realization/Practice%20Courses) - contains the React, Ruby and RubyOnRails code from excercises done to better understand the basics of these languages and frameworks.
 - [Issue estimates](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/3.%20Realization/Issue%20estimates.pdf) - a file containing Zenhub issues to better track the implementation process and help improve future plans.
 - [My Evidence Refinement](https://github.com/EditaAnomaly/S8-GI-Drieam/blob/main/3.%20Realization/My%20Evidence%20Refinement.pdf) - a formal refinement document using the company's remplate.
