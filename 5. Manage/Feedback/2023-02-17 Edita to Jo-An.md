@@ -1,0 +1,7 @@
+PP changes based on feedback submitted with draft 2: 
+*   I have updated the first chapter to offer a better description of the context and goal of the assignment.  
+-   I defined the main challenge as well as updated the research sub questions. Now it is more related to what I am actually trying to do.
+-   The validation of successful delivery is mentioned in the final section: Completion Criteria
+-   I explained a little why ruby and react were chosen by the company. Though truthfully, I also want to learn and practice them.
+-   Regarding peer programming it is still always owned and led by one person (as the epic and the ticket belongs to one owner). I believe it will be a nice way to start, so I can understand better, but eventually I will have my own tasks and tickets and any peer programming thereof will be led by me (implemented, tested, submitted).
+* I changed the “Deployment phase” to “Testing and Feedback” as the deployment is done on a weekly basis and every new feature I create and test will be deployed the following week. Therefore, the deployment will take place before the final submission. As there are still ~2 weeks after submission till end of internship, I will use the time to organize real-User testing (within Fontys UAS) to check how the section is received by future end-users.
